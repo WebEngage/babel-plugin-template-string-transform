@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-template-string-transform",
+  "version": "0.0.1",
+  "description": "Babel plugin (experimental :skull:) to transform ES6 template strings before compilation to ES5",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebEngage/babel-plugin-template-string-transform"
+  },
+  "keywords": [
+    "babel-plugin",
+    "template strings"
+  ],
+  "author": "WebEngage",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/WebEngage/babel-plugin-template-string-transform/issues"
+  },
+  "homepage": "https://github.com/WebEngage/babel-plugin-template-string-transform#readme"
+}
